@@ -1,3 +1,18 @@
+# React App Heroku
+
+## Description
+
+This is a template with the all the configurations in-place to use create-react-app and deploy to heroku.
+
+## Using the template
+
+* Clone the repository
+* Do `npm install`. This will install all the required dependencies for the project
+* Run `npm start`. This will start the app. Open the browser to view app at: [http://localhost:3000](http://localhost:3000)
+
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
